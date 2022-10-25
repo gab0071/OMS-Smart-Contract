@@ -1,6 +1,6 @@
 <h1>OMS smart contract</h1>
 
-<p>Hello, I hope you like my oms smart contract!</p>
+<p>Hello, I hope you like my OMS smart contract!</p>
 
 
 <h2> Installing / Getting started </h2>
