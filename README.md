@@ -1,5 +1,7 @@
 <h1>OMS smart contract</h1>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 <p>Hello, I hope you like my OMS smart contract!</p>
 
 
